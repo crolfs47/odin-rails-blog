@@ -1,24 +1,29 @@
-# README
+# odin-rails-blog
+## The Odin Project - Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First Rails project. Create a simple blog using Rails.
 
-Things you may want to cover:
+## Languages/Technologies used:
+ - Rails
+ - Ruby
+ - ERB
+ - HTML
+ - SQLite3
+ - VS Code
+ - Git/Github
 
-* Ruby version
+## What I learned:
+ - How to create a simple CRUD application on Rails
+ - MVC - Model-View-Controller pattern
+ - How to create, read, update, and delete blog posts
+ - How to create comments as a second model
+ - Generating models, database migrations, building forms, validations and error messages, model associations
+ - Using partials
 
-* System dependencies
+ 
+## Still can improve:
+ - This is an extremely simple blog application, need to get more familiar with Rails to make more advanced applications
 
-* Configuration
+Assignment - https://www.theodinproject.com/lessons/ruby-on-rails-blog-app 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+View Project  - still need to find somewhere to deploy app since Heroku isn't free anymore
